@@ -1,0 +1,46 @@
+-----------------
+.:Bibliography:.
+-----------------
+
+
+* "Operating Systems - Internals and Design Principles" - William Stallings, 9th edition
+
+* "06.cpu-mechanisms.pdf"
+	Supplied by Bhupjit Singh
+
+* "syscalls_tannenbaum.pdf"
+	Supplied by Bhupjit Singh
+
+* "I/O Redirection and Pips" - Mark A. Thomas
+	https://homepages.uc.edu/~thomam/Intro_Unix_Text/IO_Redir_Pipes.html
+
+* "The Open Group Base Specifications Issue 6" - IEEE Std 1003.1, 2004 Edition
+	https://pubs.opengroup.org/onlinepubs/009695399/basedefs/xbd_chap03.html#tag_03_33
+
+* "Simulating the pip '|' operator in C" - CodeVault
+	https://www.youtube.com/watch?v=6xbLgZpOBi8&ab_channel=CodeVault
+
+
+.:Code snipets, that were used for inspiration:.
+
+* exec.c, p3.c, pip1.c, pipe_from_manual_pages.c, simple_fork_p1.c
+	All code supplied by Bhupjit Singh
+
+
+
+
+
+
+	                       oOOD
+	                       ||
+	                       ||               
+	                     ---------           
+	                     -AUTHORS-          
+	                     ---------           
+	     ******************************************
+	 -- *  Mandatory Assignment 1 - Shell          *
+	  --*  Group 17:                               *
+	 -- *  Johannes, Bjørn, Gustav, Jonas, Philip  *
+	    *  29.09.2021                              *
+	     ******************************************
+
